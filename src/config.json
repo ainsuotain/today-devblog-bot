@@ -1,5 +1,5 @@
 {
-    "base_url": "https://awesome-devblog.now.sh/api/korean/people/feeds",
+    "base_url": "https://awesome-devblog.netlify.app/korean/people/feeds", 
     "sort": "date.desc",
     "page": "1",
     "size": "300",
