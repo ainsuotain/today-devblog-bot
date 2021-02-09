@@ -5,7 +5,6 @@
     "size": "300",
     "tags": [
 
-
         "Keras",
         "Python",
         "Spark",
@@ -24,6 +23,5 @@
         "Machine learning",
         "Deep learning",
         "ICML",
-        "Windows"
-    ]
+        "Windows"    ]
 }
