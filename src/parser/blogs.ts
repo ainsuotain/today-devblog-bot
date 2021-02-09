@@ -14,7 +14,9 @@ export interface Contents {
     imgUrl: string
     tags: [string]
     count: string
-    markdown: string
+    postImage: string
+    _class: string
+    
 }[];
 
 export const parse = async () => {
