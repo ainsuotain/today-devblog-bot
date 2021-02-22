@@ -14,8 +14,7 @@ export interface Contents {
     imgUrl: string
     tags: [string]
     count: string
-    postImage: string
-    _class: string
+    markdown: string
     
 }[];
 
